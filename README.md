@@ -1,4 +1,10 @@
 # libmtdlist
+## instructions
+```
+  mkdir build
+  make
+```
+## description
 A list that can storage mult pointers data type<br>
 Each data have:
 - ptr storage in a 64bits var
